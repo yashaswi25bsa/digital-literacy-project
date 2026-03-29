@@ -1,0 +1,15 @@
+[ ] 1. Never Enter Your UPI PIN to Receive Money: Remember the golden rule of Indian digital payments—your UPI PIN is only required when you are sending money or checking your balance, never for receiving funds.
+
+[ ] 2. Beware of QR Code Scams on Marketplaces: When buying or selling used textbooks, laptops, or bikes on platforms like OLX or Facebook Marketplace, never scan a QR code sent by a buyer who claims it is to "send an advance payment."
+
+[ ] 3. Verify "Too Good to Be True" Internships: If a recruiter on Telegram or WhatsApp offers a guaranteed internship or work-from-home job but asks for a "registration fee" or "security deposit" upfront, it is a scam. Legitimate companies will never ask you to pay to work for them.
+
+[ ] 4. Be Cautious on Campus Wi-Fi: Free college or cafe Wi-Fi networks are often unsecured. Avoid making bank transfers, paying exam fees, or logging into sensitive portals while connected to them unless you are using a reliable VPN.
+
+[ ] 5. Lock Down Your Location Data: Avoid posting your real-time location on Instagram or Snapchat (e.g., tagging your exact hostel block or a cafe while you are still there). Post updates after you have left to protect yourself from stalking.
+
+[ ] 6. Audit Shared Devices and Drives: College printing shops and shared lab computers are hotspots for malware. Always scan your pen drives with an updated antivirus after plugging them into public systems to protect your project files.
+
+[ ] 7. Enable 2FA on Academic Accounts: Turn on Two-Factor Authentication (2FA) for your primary email, GitHub, and university portals. This ensures that even if someone guesses your password, they cannot access your assignments or personal data.
+
+[ ] 8. Document Before You Block: If you face cyberbullying, harassment, or threats online, do not just delete the messages. Take clear screenshots of the conversation and the user's profile ID as evidence before blocking them.
